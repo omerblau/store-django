@@ -1,1 +1,7 @@
-backend/venv/\n__pycache__/\n*.pyc\n*.sqlite3\n.env
+backend/venv/
+__pycache__/
+*.pyc
+*.sqlite3
+.env
+
+.vscode/
